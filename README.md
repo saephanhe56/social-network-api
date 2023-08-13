@@ -26,7 +26,7 @@ ISC
 ## Links
 
 Github Repo: https://github.com/saephanhe56/social-network-api
-Video Link: 
+Video Link: https://drive.google.com/file/d/1WlgivOpqNVzXy6tw6b9uH4u2FUtL7Tpz/view
 
 ## Mockup Example Product 
 ![screenshot](/social-network-api/assets/hw18-mockup-insomnia.png)
