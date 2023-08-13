@@ -16,6 +16,7 @@ Clone the repo via GitHub. Install the required programs - Insomnia, MongoDB, Ex
 
 ## Usage
 
+Go to the correct folder in the terminal. Enter npm i to install the necessary packages. Next, enter npm i express, then npm i mongoose, then npm i moment. After that enter npm start to initialize the server. If it's successful, a message will indicate that "API server running on port 3001!". Now you can open Insomnia to test the routes and make changes to the user and database. Also make sure MongoDB is opened and start the connection. 
 
 
 ## License
@@ -28,4 +29,4 @@ Github Repo: https://github.com/saephanhe56/social-network-api
 Video Link: 
 
 ## Mockup Example Product 
-![screenshot]()
+![screenshot](/social-network-api/assets/hw18-mockup-insomnia.png)
