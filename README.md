@@ -1,5 +1,5 @@
 # social-network-api
-homework challenge 18
+homework challenge #18
 
 ## Description
 
@@ -26,6 +26,7 @@ ISC
 ## Links
 
 Github Repo: https://github.com/saephanhe56/social-network-api
+
 Video Link: https://drive.google.com/file/d/1WlgivOpqNVzXy6tw6b9uH4u2FUtL7Tpz/view
 
 ## Mockup Example Product 
